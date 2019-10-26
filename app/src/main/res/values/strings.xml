@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">badminton</string>
+    <string name="kevin">Kevin</string>
+    <string name="profile">profile</string>
+    <string name="prestasi">prestasi</string>
+    <string name="atlet">atlet</string>
+    <string name="turnamen">turnamen</string>
+    <string name="french_open_2019">French Open 2019</string>
+
+    <string-array name="badminton_name">
+        <item>Ahsan Hendra</item>
+        <item>Fajar Rian</item>
+        <item>Anthony Ginting</item>
+        <item>Gregoria</item>
+        <item>Greysia Apriyani</item>
+        <item>Ihsan Maulana</item>
+        <item>Jonatan Christie</item>
+        <item>Kevin Gideon</item>
+        <item>Tontowi Ahmad</item>
+        <item>Praveen Melati</item>
+    </string-array>
+
+    <string-array name="turnamen_name">
+        <item>French Open 2019</item>
+        <item>China Open 2019</item>
+        <item>Hongkong Open 2019</item>
+        <item>Korea Masters 2019</item>
+        <item>India Badminton Championship 2019</item>
+        <item>HSBC BWF World Tour Finals</item>
+        <item>Indonesia Open 2019</item>
+        <item>Japan Open 2019</item>
+    </string-array>
+
+    <array name="badminton_image">
+        <item>@drawable/ahsan</item>
+        <item>@drawable/fajri</item>
+        <item>@drawable/ginting</item>
+        <item>@drawable/grego</item>
+        <item>@drawable/greysia</item>
+        <item>@drawable/ihsan</item>
+        <item>@drawable/jojo</item>
+        <item>@drawable/kevin</item>
+        <item>@drawable/owi</item>
+        <item>@drawable/praveen</item>
+    </array>
+
+    <array name="turnamen_image">
+        <item>@drawable/french</item>
+        <item>@drawable/bwf</item>
+        <item>@drawable/china</item>
+        <item>@drawable/hongkong</item>
+        <item>@drawable/india</item>
+        <item>@drawable/indo</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/korea</item>
+    </array>
+
+
+</resources>
